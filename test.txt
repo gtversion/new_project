@@ -25,3 +25,8 @@ print(a)
 proc CheckA(a: int) {
 return a > 0
 }
+
+// вносим изменения из newfeature
+function getSqrt(a:int) {
+    return sqrt(a)
+}
