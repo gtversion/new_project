@@ -1,6 +1,11 @@
 test
+go to line 8
 line 2
 line 3
 if (a<1) {
     print("a<1")
 }
+:exit
+
+writeln
+quit
