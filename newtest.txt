@@ -1,5 +1,10 @@
 new test.txt
 
 void main {
+    call getVolume(2)
     return true
+}
+
+function getVolume(radius:int) {
+    return radius*radius*radius
 }
